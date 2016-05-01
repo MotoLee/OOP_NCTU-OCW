@@ -1,0 +1,42 @@
+Item Crown {
+Armor:54-71
+}
+Item Helmet {
+Armor:72-89
+}
+Item Mail {
+Armor:87-107
+}
+Item Goldskin {
+Armor:431-459
+}
+Item Flamberge {
+Damage:16-17
+}
+Item Scourge {
+Damage:72-82
+}
+Item Bow {
+Damage:13
+}
+Item Ring {
+Damage:5
+Armor:5
+}
+Item Amulet {
+Damage:20
+Armor:3
+}
+Item Braid {
+Armor:53-79
+}
+Item Pike {
+Damage:15-16
+}
+Item Halberd {
+Damage:41-69
+}
+Item Treads {
+Armor:130
+Damage:10
+}

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1434011652 source:d:\½Òµ{\oop - nctu ocw\lab\lab05\ex5-2\ex5-2.cpp
+	<iostream>
+	"Matrix.h"
+
+1434010036 d:\½Òµ{\oop - nctu ocw\lab\lab05\ex5-2\matrix.h
+
+1434011909 source:d:\½Òµ{\oop - nctu ocw\lab\lab05\ex5-2\matrix.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	"Matrix.h"
+	<cassert>
+	<stdlib.h>
+

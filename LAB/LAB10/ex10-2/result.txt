@@ -1,0 +1,6 @@
+991001 Tom 85
+991002 Jean 90
+991003 Kevin 94
+991004 John 89
+991005 Marry 76
+Average: 86.8
