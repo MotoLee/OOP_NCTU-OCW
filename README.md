@@ -1,10 +1,8 @@
-# OOP_NCTU-OCW
+# Object Oriented Programming NCTU-OCW
 
 Link: http://ocw.nctu.edu.tw/eng/course_detail.php?bgid=8&gid=0&nid=343#.VyVnvjB95qw
 
-
 Syllabus: http://ocw.nctu.edu.tw/eng/course_detail_1.php?bgid=8&gid=0&nid=343&pid=391#.VyVoejB95qw
-
 
 Textbook: W. Savitch (WS), "Absolute C++," 4th ed., ISBN:0131365843, Addison Wesley, 2010. 
 
